@@ -1,0 +1,110 @@
+img#logo2 {
+    margin-top: 110px;
+    box-shadow: 0px 0px 10px 0px white;
+    padding: 30px;
+    border-radius: 26px;
+    background-color: white;
+    margin-bottom: 100px;
+}
+.nft {
+    background-color: black;
+}
+button#barbutton{
+    /* position: absolute;
+width: 196px;
+height: 25px;
+left: 609px;
+top: 208px;
+
+font-family: 'Saira SemiCondensed';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 25px;
+
+color: #FFFFFF;
+background-color: #1eb808;
+padding-top: 17px;
+    padding-bottom: 30px; */
+
+}
+.col-sm-8 {
+    text-align: left;
+}
+button#barbutton {
+    margin-top: 110px;
+    font-family: 'Saira SemiCondensed';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 25px;
+background-color:#1eb808 ;
+border-radius: 14px;
+border-color: #1eb808;
+color: #faf4f4;
+
+}
+svg#ri {
+    margin-left: 20px;
+}
+
+h5#own{
+    background-color: black;
+    color: white;
+    margin-top: 33px;
+   border: 1px solid #B2F3B0;
+    width: 78%;
+    height: 64px;
+    padding-top: 17px;
+    padding-left: 15px;
+    border-radius: 8px
+
+}
+h5#own1{
+    background-color: black;
+    color: white;
+    margin-top: 33px;
+   border: 1px solid #B2F3B0;
+    width: 78%;
+    height: 64px;
+    padding-top: 17px;
+    padding-left: 15px;
+    border-radius: 8px;
+    margin-left: -76px;
+    
+
+}
+h3#space {
+    margin-bottom: 33px;
+}
+.col-sm-2 {
+    margin-left: -55px;
+}
+.col-sm-2 {
+    margin-left: -41px;
+}
+h6#shouu {
+    margin-left: 300px;
+    margin-top: -26px;
+}
+h6#\31 2 {
+    margin-left: 203px;
+}
+h6#shouu1 {
+    margin-left: 448px;
+    margin-top: -28px;
+}
+h6#\31 3 {
+    margin-left: -102px;
+}
+h6#sho {
+    margin-left: 247px;
+    margin-top: -27px;
+}
+h6#\31 4 {
+    margin-left: -154px;
+}
+h6#sho1 {
+    margin-left: 222px;
+    margin-top: -28px;
+}

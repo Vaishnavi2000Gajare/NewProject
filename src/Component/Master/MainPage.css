@@ -1,0 +1,76 @@
+button#buthover:active{
+    background-color:rgb(245, 236, 253);
+}
+button#buthover:hover
+{
+   background-color: black;
+}
+span.navbar-text:hover {
+    color: #1eb808    ;
+}
+.wallet {
+    background-color: black;
+    
+}
+button#buthover {
+    margin-bottom: 300px;
+    margin-top: 38px;
+    background-color: #1eb808;
+    color: white;
+  
+    width: 19%;
+}
+.last {
+    background-color: black;
+}
+h6#subscribe {
+    text-align: start;
+    margin-top: 31px
+}
+svg#fb {
+    color: white;
+    font-size: 27px;
+    margin-right: 20px;
+}
+svg#twitter {
+    color: white;
+    font-size: 23px;
+    margin-right: 20px;
+}
+svg#insta {
+    color: white;
+    font-size: 21px;
+}
+div#socialMedia {
+    text-align: right;
+}
+div#socialMedia:hover {
+  color: #1eb808;
+}
+svg#fb :hover{
+    color: #1eb808;
+}
+svg#twitter :hover{
+    color: #1eb808;
+}
+svg#insta :hover{
+    color: #1eb808;
+}
+section.lastField {
+    background-color: black;
+}
+div#inputGroup {
+    margin-bottom: 168px;
+    width: 35%;
+    margin-top: 12px;
+}
+button#buthover11 {
+    margin-top: -87px;
+    width: 25%;
+    background-color: #1eb808;
+    border-radius: 21px;
+}
+p#rigthAll {
+    text-align: right;
+    margin-top: 43px;
+}

@@ -1,0 +1,25 @@
+.AboutUs {
+    background-color: black;
+}
+h1#AboutUs {
+    color: white;
+    text-align: left;
+    margin-top: 38px;
+    font-size: 33px;
+}
+p#text\ {
+    margin-top: 23px;
+    line-height: 32px;
+    margin-bottom: 80px;
+    text-align: initial;
+}
+input#mail {
+    text-align: left;
+    margin-left: -285px;
+}  
+button#buthover111 {
+    margin-left: 16px;
+    margin-top: -3px;
+    background-color: green;
+    border-radius: 12px;
+} 

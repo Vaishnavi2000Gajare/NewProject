@@ -1,0 +1,92 @@
+ img#man {
+    margin-top: -729px;
+    margin-left: 681px;
+}
+img#shoo {
+    margin-top: -886px;
+    margin-left: -663px;
+}
+/* .container-fluid {
+    background-color: rgb(238, 12, 12);
+} */
+/* img#first {
+    margin-right: -129px;
+}
+img#second {
+    margin-top: -932px;
+    margin-left: -132px;
+} */
+/* div{
+    background: url('../Images/Group\ 629.png');
+    background-repeat: no-repeat;
+} */
+div#back1 {
+    background: url(../Images/Group\ 629.png);
+    height: 200%;
+    padding-bottom: 800px;
+    /* padding-left: 200px;
+    padding-left: 300px; */
+    background-position: bottom;
+    background-repeat: no-repeat;
+
+
+   
+}
+/* h1#h2 {
+    background: url(../Images/Group\ 630.png);
+   
+    
+} */
+img#photo0 {
+    margin-top: -112px;
+    margin-left: 900px; 
+   
+}
+img#shoues {
+    margin-left: -400px;
+    margin-top: 81px;
+}
+.hard {
+    background: url(../Images/bg.png);
+    background-repeat: no-repeat;
+}
+h1#Moonstep{
+    color: #000000de;
+    font-size: 106px;
+    font-style: normal;
+    font-weight: 700;
+    padding-top: 120px;
+    text-shadow: 0px 0px 5px #1eb808, 0px 0px 5px #1eb808, 0px 0px 5px #1eb808, 0px 0px 5px #1eb808, 0px 0px 5px #1eb808, 0px 0px 5px #1eb808;
+    -webkit-text-stroke: 2px #B2F3B0;
+
+}
+a#id {
+    margin-left: 500px;
+    color: white;
+    font-weight: bold;
+}
+a#id1 {
+    color: white;
+    font-weight: bold;
+    margin-left: 30px;
+}
+h2#blockchain {
+    text-align: start;
+    margin-left: 59px;
+    font-weight: 700;
+}
+p#par {
+    text-align: initial;
+    margin-left: 63px;
+}
+div#mana {
+    margin-left: -150px;
+}
+section.section {
+    margin-left: -200px;
+}
+video {
+    width: 100%;
+    height: 100%;
+}
+

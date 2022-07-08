@@ -1,0 +1,23 @@
+    span.navbar-text {
+        align-content: space-between;
+        margin-right: 74px;
+        color: white;
+    }
+button#but {
+    background-color: #1EB808;
+    
+
+}
+.img1{
+    background-image: url('../Images/Vector\ 102.png');
+}
+/* html{
+    position: absolute;
+left: 16.54%;
+right: -38.45%;
+top: -0.58%;
+bottom: 92.12%;
+
+background: url(../Images/Group\ 629.png);
+background-repeat: no-repeat;
+} */
